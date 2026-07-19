@@ -1,5 +1,3 @@
-<!-- DRAFT — working copy. Seal by `git mv` into docs/ (drop the date prefix) once approved. -->
-
 # Moving a repo into `jschwefel-workshop`
 
 A repeatable runbook for transferring an existing repository into the `jschwefel-workshop`
